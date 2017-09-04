@@ -1,0 +1,14 @@
+C:\Users\ddawx\source\repos\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\Users\ddawx\source\repos\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\Users\ddawx\source\repos\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+C:\Users\ddawx\source\repos\WindowsFormsApp\WindowsFormsApp\bin\Debug\Interop.WMPLib.dll
+C:\Users\ddawx\source\repos\WindowsFormsApp\WindowsFormsApp\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ddawx\source\repos\WindowsFormsApp\WindowsFormsApp\obj\Debug\Interop.WMPLib.dll
+C:\Users\ddawx\source\repos\WindowsFormsApp\WindowsFormsApp\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ddawx\source\repos\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.ResolveComReference.cache
+C:\Users\ddawx\source\repos\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\Users\ddawx\source\repos\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.Cache
+C:\Users\ddawx\source\repos\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\ddawx\source\repos\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\Users\ddawx\source\repos\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+C:\Users\ddawx\source\repos\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.winForm.resources
