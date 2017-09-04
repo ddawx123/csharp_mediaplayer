@@ -12,3 +12,17 @@ C:\Users\ddawx\source\repos\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFor
 C:\Users\ddawx\source\repos\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
 C:\Users\ddawx\source\repos\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
 C:\Users\ddawx\source\repos\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.winForm.resources
+D:\LocalGitRepo\csharp_mediaplayer\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+D:\LocalGitRepo\csharp_mediaplayer\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+D:\LocalGitRepo\csharp_mediaplayer\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+D:\LocalGitRepo\csharp_mediaplayer\WindowsFormsApp\bin\Debug\Interop.WMPLib.dll
+D:\LocalGitRepo\csharp_mediaplayer\WindowsFormsApp\bin\Debug\AxInterop.WMPLib.dll
+D:\LocalGitRepo\csharp_mediaplayer\WindowsFormsApp\obj\Debug\Interop.WMPLib.dll
+D:\LocalGitRepo\csharp_mediaplayer\WindowsFormsApp\obj\Debug\AxInterop.WMPLib.dll
+D:\LocalGitRepo\csharp_mediaplayer\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.ResolveComReference.cache
+D:\LocalGitRepo\csharp_mediaplayer\WindowsFormsApp\obj\Debug\WindowsFormsApp.winForm.resources
+D:\LocalGitRepo\csharp_mediaplayer\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+D:\LocalGitRepo\csharp_mediaplayer\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.Cache
+D:\LocalGitRepo\csharp_mediaplayer\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+D:\LocalGitRepo\csharp_mediaplayer\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+D:\LocalGitRepo\csharp_mediaplayer\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
